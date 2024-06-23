@@ -1,8 +1,10 @@
-TechnoHacks'24 Machine Learning Projects
+#TechnoHacks'24 Machine Learning Projects
 
-For my #1 Task: {Classify Iris Flowers}
+##As a ML Intern at TechnoHacks Edutech, I have been provided various tasks to be completed
 
-For this project, I used the famous Iris dataset from UCI Machine Learning Repository and the Random Forest Classifier(RFC) model.
+###For my #1 Task: {Classify Iris Flowers}
+
+>For this project, I used the famous Iris dataset from UCI Machine Learning Repository and the **Random Forest Classifier(RFC)** model.
   Summary
     1) Data Loading: Loaded the Iris dataset.
     2) Data Visualization: Visualized data using pair plots and a correlation heatmap.
@@ -12,13 +14,14 @@ For this project, I used the famous Iris dataset from UCI Machine Learning Repos
     6) Results Visualization: Visualized the confusion matrix.
 
 
-For my #2 Task: {Diabetes Prediction}
+###For my #2 Task: {Diabetes Prediction}
 
-For this project, I used Logisitic Regression on the Pima Indians Diabetes Database on Kaggle and achieved a 78.5% accuracy.
+>For this project, I used Logisitic Regression on the Pima Indians Diabetes Database on Kaggle and achieved a 78.5% accuracy.
 
 
-For my #3 Task: {Predicting House Prices}
 
-For this project, I used the House Prices - Advanced Regression Techniques dataset available on Kaggle to predict house prices and used Linear Regression to achieve mean absolute error of 16501 as of now and the lowest was 15339.
+###For my #3 Task: {Predicting House Prices}
+
+>For this project, I used the House Prices - Advanced Regression Techniques dataset available on Kaggle to predict house prices and used Linear Regression to achieve mean absolute error of 16501 as of now and the lowest was 15339.
 
 With these projects, this conculdes my Internship Tasks on Machine Learning by TechnoHacks. I've appriciate the TechnoHacks Edutech and Mr. Sandip Gavit for this wonderful oppurtunity. Thank you!
